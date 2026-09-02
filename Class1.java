@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Vehbi Bera Papuccu
  */
 
 public class Class1 {
